@@ -30,7 +30,9 @@ render() {
 ```
 </details>
 
-<details><summary><b>2. react limitation/disadvantage</b></summary>
+<details>
+<summary><b>2. react limitation/disadvantage</b></summary>
+
 there is some limit
 </details>
 
@@ -200,3 +202,6 @@ Answer
 2. Different buttons
 3. fixed and fluid container classes
 4. col division
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjUzNDA1ODkzXX0=
+-->
