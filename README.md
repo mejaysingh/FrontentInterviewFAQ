@@ -1,10 +1,29 @@
 # Interview Question
 ##	Web Development:
-1.	A progressive web application (PWA)
-2.	coding principles names
-3.	design pattern 
-4.	network matrices 
-5. docker
+<details>
+  <summary><b>1. A progressive web application (PWA)</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>2. Coding principles names</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>3. Design pattern</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>4. Network matrices</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>5. Docker</b></summary>
+  Answer
+</details>
 
 ## React JS:
 
@@ -122,86 +141,287 @@ Answer
 </details>
 		
 ## Javascript
-1. how to inherit parent properties, prototype inheritance
-2. how javascript works & event loop
-3. event propagation
-4. throttling & debouncing
-5. closure
-6. Scope chain
-7. hoisting
-8. primitive ,non-primitive data types
-9. ES6 features
-10. window.onload & document.onload
-11. use/benefits of arrow function
-12. classes & objects
-13. var,let, const
-14. array methods : map, filter, forEach, reduce
-15. array of objects [sum of ids of all objects]
-16. promise
-17. setTimeout setTimeout code is written first than promise -which one will execute first
-19. api call (multiple api call in single function)
-20. Lazy Loading
-21. What is Type Coercion in JavaScript ?
-22. shallow copy and deep copy in javascript
-23. event delegation in javascript
-24. Object oriented JavaScript
-25. webstorage,cookie
-26. SEO
-27. arguments sum
-28. spread operator & rest operator
-29. moment js for timezone
-30. convert object into array
-31. toString()
+<details>
+  <summary><b>1. how to inherit parent properties, prototype inheritance</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>2. how javascript works & event loop</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>3. event propagation</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>4. throttling & debouncing</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>5. closure</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>6. Scope chain</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>7. hoisting</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>8. primitive ,non-primitive data types</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>9. ES6 features</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>10. window.onload & document.onload</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>11. use/benefits of arrow function</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>12. classes & objects</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>13. var, let, const</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>14. array methods: map, filter, forEach, reduce</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>15. array of objects [sum of ids of all objects]</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>16. promise</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>17. setTimeout setTimeout code is written first than promise -which one will execute first</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>19. api call (multiple api call in a single function)</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>20. Lazy Loading</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>21. What is Type Coercion in JavaScript?</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>22. shallow copy and deep copy in JavaScript</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>23. event delegation in JavaScript</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>24. Object-oriented JavaScript</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>25. web storage, cookie</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>26. SEO</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>27. arguments sum</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>28. spread operator & rest operator</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>29. moment js for timezone</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>30. convert object into an array</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>31. toString()</b></summary>
+  Answer
+</details>
 
 ## HTML
-1.html & html5 new features
-2.block level elements like div & inline-elements like span
-3.innerText, innerHtml & textContent
-4.semantic & non semantic tags in html
-5.webstorage
-6.doctype 
-7.target types 
-8.attribute
-9.offline browsing
-10.HTML hacking/injection [Stored & Reflected]
-11.noopener
-12.required pattern max-length
-13.picture tag for image
-14.video and audio tags
-15.content delivery network (CDN)
+<details><summary><b>1. html & html5 new features</b></summary>
+Answer
+</details>
+<details><summary><b>2. block level elements like div & inline-elements like span</b></summary>
+Answer
+</details>
+<details><summary><b>3. innerText, innerHtml & textContent</b></summary>
+Answer
+</details>
+<details><summary><b>4. semantic & non-semantic tags in html</b></summary>
+Answer
+</details>
+<details><summary><b>5. web storage</b></summary>
+Answer
+</details>
+<details><summary><b>6. doctype</b></summary>
+Answer
+</details>
+<details><summary><b>7. target types</b></summary>
+Answer
+</details>
+<details><summary><b>8. attribute</b></summary>
+Answer
+</details>
+<details><summary><b>9. offline browsing</b></summary>
+Answer
+</details>
+<details><summary><b>10. HTML hacking/injection [Stored & Reflected]</b></summary>
+Answer
+</details>
+<details><summary><b>11. noopener</b></summary>
+Answer
+</details>
+<details><summary><b>12. required pattern max-length</b></summary>
+Answer
+</details>
+<details><summary><b>13. picture tag for image</b></summary>
+Answer
+</details>
+<details><summary><b>14. video and audio tags</b></summary>
+Answer
+</details>
+<details><summary><b>15. content delivery network (CDN)</b></summary>
+Answer
+</details>
 
+## CSS
+<details><summary><b>1. difference between visibility hidden & display none</b></summary>
+Answer
+</details>
+<details><summary><b>2. position[relative, absolute, fixed, static], default position-static</b></summary>
+Answer
+</details>
+<details><summary><b>3. box modal</b></summary>
+Answer
+</details>
+<details><summary><b>4. in nested selector how compiler works</b></summary>
+Answer
+</details>
+<details><summary><b>5. priority of class, id and tags in css</b></summary>
+Answer
+</details>
+<details><summary><b>6. border-style: dotted, dashed, etc.</b></summary>
+Answer
+</details>
+<details><summary><b>7. why css preprocessor</b></summary>
+Answer
+</details>
+<details><summary><b>8. scaler vector svg animation</b></summary>
+Answer
+</details>
+<details><summary><b>9. flex box</b></summary>
+Answer
+</details>
+<details><summary><b>10. mobile and desktop first approach</b></summary>
+Answer
+</details>
+<details><summary><b>11. concept of specificity</b></summary>
+Answer
+</details>
+<details><summary><b>12. why css cascading</b></summary>
+Answer
+</details>
+<details><summary><b>13. Pseudo-elements & Pseudo-classes</b></summary>
+Answer
+</details>
 
-## CSS:
-1.difference between visibility hidden & display none
-2.position[relative, absolute, fixed, static], default position-static
-3.box modal
-4.in nested selector how compiler works
-5.priority of class, id and tags in css
-6.border-style: dotted, dashed, etc.
-7.why css preprocessor
-8.scaler vector svg animation
-9.flex box
-10.mobile and desktop first approach
-11.concept of specificity
-12.why css cascading
-13.Pseudo-elements & Pseudo-classes
+## LESS
+<details>
+  <summary><b>1. mixin</b></summary>
+  Answer
+</details>
 
+<details>
+  <summary><b>2. e()</b></summary>
+  Answer
+</details>
 
-## LESS:
-1. mixin
-2. e()
-3. How to use Less compiler
-
+<details>
+  <summary><b>3. How to use Less compiler</b></summary>
+  Answer
+</details>
 
 ## SASS
-1. mixin
-
+<details>
+  <summary><b>1. mixin</b></summary>
+  Answer
+</details>
 
 ## Bootstrap
-1. Breadcrumb class
-2. Different buttons
-3. fixed and fluid container classes
-4. col division
+<details>
+  <summary><b>1. Breadcrumb class</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>2. Different buttons</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>3. Fixed and fluid container classes</b></summary>
+  Answer
+</details>
+
+<details>
+  <summary><b>4. Col division</b></summary>
+  Answer
+</details>
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjUzNDA1ODkzXX0=
 -->
